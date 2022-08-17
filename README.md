@@ -34,7 +34,7 @@
   <br/>
   <br/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christianpredoianu&theme=highcontrast)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christianpredoianu&theme=blueberry_duo)](https://git.io/streak-stats)
   
   <br/>
   <br/>
