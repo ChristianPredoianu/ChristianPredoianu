@@ -45,7 +45,7 @@
   </a>
   
   <a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass&logoColor=important" alt="Sass Badge"/>
+  <img src="https://img.shields.io/badge/Sass-critical?style=for-the-badge&logo=sass&logoColor=important" alt="Sass Badge"/>
   </a>
   
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
