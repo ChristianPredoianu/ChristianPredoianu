@@ -20,7 +20,7 @@
   </a>
   
   <a href="https://vuejs.org/">
-  <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" alt="Vue Badge"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4fc08d?&logo=vuedotjs&logoColor=white" alt="Vue Badge"/>
   </a>
   
   <a href="https://nuxtjs.org/">
