@@ -10,6 +10,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
   </a>
   
+  <a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=javascript&logoColor=lightgrey" alt="Javascript Badge"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=sass&logoColor=black" alt="Es6 Badge"/>
+ 
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
@@ -40,10 +47,6 @@
   </a>
   
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  
-  <a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass&logoColor=important" alt="Sass Badge"/>
-  </a>
   
   <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=red" alt="Npm Badge"/>
