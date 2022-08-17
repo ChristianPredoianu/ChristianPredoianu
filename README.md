@@ -36,7 +36,10 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christianpredoianu&theme=highcontrast)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianpredoianu&layout=compact&theme=vision-friendly-dark)](https://github.com/christianpredoianu/github-readme-stats)
+  <br/>
+  <br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianpredoianu&layout=compact&theme=vision-friendly-dark)]     (https://github.com/christianpredoianu/github-readme-stats)
   
 </div>
 
