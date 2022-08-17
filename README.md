@@ -39,7 +39,7 @@
   <br/>
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianpredoianu&layout=compact&theme=blueberry_duo)](https://github.com/christianpredoianu/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianpredoianu&layout=compact&theme=vision-friendly-dark)](https://github.com/christianpredoianu/github-readme-stats)
 
   
 </div>
