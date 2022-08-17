@@ -5,7 +5,7 @@
   <br/>
   
 <div id="badges">
- - ![#f03c15] <a href="https://www.linkedin.com/in/christian-predoianu-369218157">`#f03c15`
+ <a href="https://www.linkedin.com/in/christian-predoianu-369218157">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   
