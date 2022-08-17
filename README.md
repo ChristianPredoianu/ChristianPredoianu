@@ -45,7 +45,7 @@
   </a>
   
   <a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-critical?style=for-the-badge&logo=sass&logoColor=important" alt="Sass Badge"/>
+  <img src="https://img.shields.io/badge/Sass-critical?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge"/>
   </a>
   
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -67,9 +67,9 @@
   </a>
   
 
-  <img src="https://img.shields.io/badge/Responsive%20design-white?style=for-the-badge&logo=phone&logoColor=blue" alt="Responsive Badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20design-informational?style=for-the-badge&logo=phone&logoColor=blue" alt="Responsive Badge"/>
   
-  <img src="https://img.shields.io/badge/Wcag%202.0-white?style=for-the-badge&logo=phone&logoColor=blue" alt="Wcag Badge"/>
+  <img src="https://img.shields.io/badge/Wcag%202.0-lightgrey?style=for-the-badge&logo=phone&logoColor=blue" alt="Wcag Badge"/>
   
   <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=" alt="Bem Badge"/>
   
