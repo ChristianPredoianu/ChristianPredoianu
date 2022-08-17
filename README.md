@@ -66,7 +66,7 @@
   
   <img src="https://img.shields.io/badge/Wcag%202.0-white?style=for-the-badge&logo=phone&logoColor=blue" alt="Wcag Badge"/>
   
-    <img src="https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=bem&logoColor=blue" alt="Bem Badge"/>
+  <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=" alt="Bem Badge"/>
   
   
   
