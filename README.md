@@ -24,7 +24,7 @@
   </a>
   
   <a href="https://nuxtjs.org/">
-  <img src="https://img.shields.io/badge/Nuxt%20Js-success?style=for-the-badge&logo=nuxt.js&logoColor=success" alt="Nuxt Badge"/>
+  <img src="https://img.shields.io/badge/Nuxt%20Js-success?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt Badge"/>
   </a>
   
   <a href="https://reactjs.org/">
