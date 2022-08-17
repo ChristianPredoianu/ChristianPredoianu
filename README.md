@@ -73,6 +73,10 @@
   
   <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=" alt="Bem Badge"/>
   
+  <a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-ff69b4?style=for-the-badge&logo=figma&logoColor=brightgreen" alt="Figma Badge"/>
+  </a>
+  
   
   
   
