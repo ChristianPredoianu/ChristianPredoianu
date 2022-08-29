@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
    
   <br/>  
-  <br/>
+  <br/> 
    
 <div id="badges">
  <a href="https://www.linkedin.com/in/christian-predoianu-369218157">
