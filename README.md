@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   
-   <a href="https://www.christianpredoianu.se">
+   <a href="https://www.christianpredoianu.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-success?logo=website&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
